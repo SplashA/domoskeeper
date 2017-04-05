@@ -1,0 +1,11 @@
+.footer{
+  display: inline;
+  position: fixed;
+  padding: 10px;
+  bottom: 0%;
+  background: #F8F8F8;
+  width: 100%;
+}
+.header-nav{
+  word-spacing: -70%;
+}
