@@ -38,12 +38,3 @@ activated = 1
 frequency = 2
 photo_capture(frequency)
 # video_capture(counter, maxTime)
-
-
-
-
-
-
-
-
-
