@@ -5,8 +5,8 @@ import time
 def compare(img1,img2):
     debut = time.time()
 
-    image1 = np.int16(cv2.imread(img1))
-    image2 = np.int16(cv2.imread(img2))
+    image1 = np.int16(cv2.imread("../images/"+img1))
+    image2 = np.int16(cv2.imread("../images/"+img2))
 
     difference = np.subtract(image1, image2)
 
