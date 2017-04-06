@@ -1,7 +1,9 @@
 from cv2 import *
 from datetime import datetime
 from time import sleep
-
+from lib import compareImage
+from lib import postEvent
+from lib import smsTwilio
 
 # function definitions
 
