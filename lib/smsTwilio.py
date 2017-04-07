@@ -1,3 +1,4 @@
+# Module d'envoi de SMS par le biais de Twilio
 from twilio.rest import Client
 
 def sendSms(fromNum,toNum,mess):

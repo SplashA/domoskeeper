@@ -1,3 +1,4 @@
+# Module d'envoi de la photo changée dans la base Mongo
 import requests
 
 def postEvent(keeper_id,keeper_token,image,date):
